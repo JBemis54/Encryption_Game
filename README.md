@@ -1,6 +1,6 @@
 # Encryption Game
 
-Story drive game that introduces the idea of the encyption debate /n
-Jacob Bemis\n
-CS 200 Ball State University\n
-December 2024\n
+Story drive game that introduces the idea of the encyption debate<br>
+Created by: Jacob Bemis<br>
+CS 200 Ball State University<br>
+December 2024
